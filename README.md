@@ -50,7 +50,7 @@
 
 
 # 电机参数图示
-![motor_parameter_illustration](http://github.com/EdgeAI-Lab/controller/blob/master/pictures/motor_parameter.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/blob/master/pictures/motor_parameter.png)
 * M1 & M2 is [Maxon DC motor](https://www.maxonmotor.com)
 * M3 & M4 is [Chihai DC motor](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.b9052e8dcijeIG&id=538992784317&_u=2nt24adc9aa)
 
