@@ -55,10 +55,10 @@
 * M3 & M4 is [Chihai DC motor](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.b9052e8dcijeIG&id=538992784317&_u=2nt24adc9aa)
 
 # Maxon电机尺寸
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-1.png)
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-2.png)
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-3.png)
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-4.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-1.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-2.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-3.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/maxon-motor-dimen-4.png)
 
 # Maxon电机性能
 * Motor - DCX12S EB KL 12V
@@ -96,7 +96,7 @@
 |电机不转| 0.46V    |571      |0x023B   |
 
 # Maxon电机编码器接口
-![motor_encode_connector](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/motor_encode_connector.png)
+![motor_encode_connector](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/motor_encode_connector.png)
 
 #### 【疑问】理论计算电机堵转时，放大后电压为：0.261A*0.47Ohm*25.097=3.08V，但是实测为1.64V
 
@@ -112,13 +112,13 @@
 |编码器线数|7|
 
 # Chihai电机尺寸及相关图示
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-dimen.png)
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-encoder.png)
-![motor_parameter_illustration](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-encoder-electrical-characteristics.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-dimen.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-encoder.png)
+![motor_parameter_illustration](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/chihai-motor-encoder-electrical-characteristics.png)
 
 
 # 程序下载接口(SW)
-![SW](http://192.168.10.100/EdgeAI-Lab/controller/raw/master/pictures/sw_jtag.png)
+![SW](https://github.com/EdgeAI-Lab/controller/raw/master/pictures/sw_jtag.png)
 
 
 ## Debg info
